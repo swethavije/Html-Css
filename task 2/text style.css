@@ -1,0 +1,90 @@
+h1{
+	text-align:center;
+    text-transform:uppercase;
+	color:deepPink;
+}
+h2{
+	color:tomato;
+}
+.color{
+	color:blue;
+}
+.bgcolor{
+	background-color:violet;
+	border: 1px solid;
+}
+h4.a{
+	text-align:center;
+}
+h4.b{
+	text-align:right;
+}
+h4.c{
+	text-align:left;
+}
+p.d{
+	border:1px solid;
+	text-align:justify;
+}
+p.e{
+	text-align-last:right;
+}
+p.f{
+	text-align-last:center;
+}
+p.g{
+	text-align-last:justify;
+}
+p.dir{
+	direction:rtl;
+	unicode-bidi:bidi-override;
+	color:blue;
+}
+h3#text-decoration{
+	text-decoration:overline red solid 3px;
+}
+h4#text-decoration{
+   text-decoration:line-through blue wavy;
+}
+h5#text-decoration{
+	text-decoration:underline violet dashed;
+}
+h6#text-decoration{
+	text-decoration:underline overline purple;
+}
+p.uppercase{
+	text-transform:uppercase;
+}
+p.lowercase{
+	text-transform:lowercase;
+}
+p.capitalize{
+	text-transform:capitalize;
+}
+p.text-indent{
+	text-intent:50px;
+}
+p.letter-space{
+	letter-spacing:5px;
+}
+p.line-height{
+	line-height:0.8;
+}
+p.word-space{
+word-spacing:10px;
+}
+p.white-space{
+	white-space:nowrap;
+}
+h3#text-shadow{
+     text-shadow: 2px 2px slateblue;
+}
+h4#text-shadow{
+	text-shadow: 2px 2px 5px orange;
+}
+
+	
+	
+        	
+	
+	
