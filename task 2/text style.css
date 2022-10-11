@@ -62,7 +62,7 @@ p.capitalize{
 	text-transform:capitalize;
 }
 p.text-indent{
-	text-intent:50px;
+	text-indent:50px;
 }
 p.letter-space{
 	letter-spacing:5px;
@@ -70,8 +70,8 @@ p.letter-space{
 p.line-height{
 	line-height:0.8;
 }
-p.word-space{
-word-spacing:10px;
+p.word-spacing{
+    word-spacing:10px;
 }
 p.white-space{
 	white-space:nowrap;
